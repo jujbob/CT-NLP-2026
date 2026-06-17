@@ -5,3 +5,5 @@ This is a repository for the CT-NLP lecture in 2026!
 
 
 ## Evaluation: https://forms.gle/YF7k2QFE25FeNaP1A
+ - the submmited Paper will be evaluated by two TAs who never know the topic as a blind review
+ - Presentation is the peer evaluation
